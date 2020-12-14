@@ -1,6 +1,7 @@
 # Html
 ***
 ## Aulas
+### Modulo 1
 * -[x] Capitulo 1 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex01)
 * -[x] Capitulo 2 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex02)
 * -[x] Capitulo 3 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex03)
@@ -9,14 +10,15 @@
 * -[x] Capitulo 6 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex06)
 * -[x] Capitulo 7 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex07)
 * -[x] Capitulo 8 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex08)
-* -[ ] Capitulo 9 `Não Concluido`
-* -[ ] Capitulo 10 `Não Concluido`
-* -[ ] Capitulo 11 `Não Concluido`
-* -[ ] Capitulo 12 `Não Concluido`
-* -[ ] Capitulo 13 `Não Concluido`
-* -[ ] Capitulo 14 `Não Concluido`
-* -[ ] Capitulo 15 `Não Concluido`
+* -[ ] Capitulo 9 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex09) `Não Concluido`
+* -[ ] Capitulo 10 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex010) `Não Concluido`
+* -[ ] Capitulo 11 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex011) `Não Concluido`
+* -[ ] Capitulo 12 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex012) `Não Concluido`
+* -[ ] Capitulo 13 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex013) `Não Concluido`
+* -[ ] Capitulo 14 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex014) `Não Concluido`
+* -[ ] Capitulo 15 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/aulas/ex015) `Não Concluido`
 ## Desafios
+### Modulo 1
 * -[x] Desafios 1 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/desafios/modulo1/d1) 
 * -[x] Desafios 2 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/desafios/modulo1/d2) 
 * -[x] Desafios 3 [Acessar no meu Github](https://github.com/ArthurCaio/html/tree/main/desafios/modulo1/d3) 
